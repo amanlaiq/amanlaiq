@@ -15,20 +15,13 @@
 </a>
 
 <br/> 
-
-<a href="https://github.com/amanlaiq">
-    <img src="https://github-readme-stats.vercel.app/api?username=amanlaiq&show_icons=true&theme=default">
-</a>
-
-<a href="https://github.com/amanlaiq">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanlaiq&layout=compact">
-</a>
-
-<br/>
-
-<a href="https://github.com/amanlaiq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanlaiq">
-</a>
+<table>
+  <tr>
+    <td><a href="https://github.com/amanlaiq"><img src="https://github-readme-stats.vercel.app/api?username=amanlaiq&show_icons=true&theme=default" /></a></td>
+    <td><a href="https://github.com/amanlaiq"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanlaiq&layout=compact" /></a></td>
+    <td><a href="https://github.com/amanlaiq"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amanlaiq" /></a></td>
+  </tr>
+</table>
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=aman007mohammed&cover_image=true&theme=default&bar_color=53b14f">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=aman007mohammed&cover_image=true&theme=default&bar_color=53b14f" alt="Spotify Profile">
