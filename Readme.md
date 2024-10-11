@@ -15,13 +15,23 @@
 </a>
 
 <br/> 
-<table>
-  <tr>
-    <td><a href="https://github.com/amanlaiq"><img src="https://github-readme-stats.vercel.app/api?username=amanlaiq&show_icons=true&theme=default" /></a></td>
-    <td><a href="https://github.com/amanlaiq"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanlaiq&layout=compact" /></a></td>
-    <td><a href="https://github.com/amanlaiq"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amanlaiq" /></a></td>
-  </tr>
-</table>
+<p align="center">
+<a href="https://github.com/amanlaiq">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&center=true&width=435&lines=Aman+Laiq+Mohammed;MS+CS+Student+(Graduate+Assistant);Full+Stack+Developer;Data+Scientist+;Software+Engineer" alt="Typing SVG" />
+</a>
+<br/>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <a href="https://github.com/amanlaiq">
+    <img src="https://github-readme-stats.vercel.app/api?username=amanlaiq&show_icons=true&theme=default" />
+  </a>
+  <a href="https://github.com/amanlaiq">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanlaiq&layout=compact" />
+  </a>
+  <a href="https://github.com/amanlaiq">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanlaiq" />
+  </a>
+</div>
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=aman007mohammed&cover_image=true&theme=default&bar_color=53b14f">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=aman007mohammed&cover_image=true&theme=default&bar_color=53b14f" alt="Spotify Profile">
