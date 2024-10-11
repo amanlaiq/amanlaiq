@@ -5,23 +5,14 @@
 <br/>
 
 <a href="https://portfolio-aman-lac.vercel.app/">
-    <img src="https://img.shields.io/badge/https://portfolio-aman-lac.vercel.app/-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Portfolio-portfolio--aman--lac.vercel.app-red?style=flat-square">
 </a>  
-<!-- <a href="https://your-website.com/Resume.pdf">
-    <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
-</a>   -->
 <a href="https://www.linkedin.com/in/amaanlaiq/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:aman007mohammed@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<!-- <a href='https://scholar.google.com/citations?user=your-user-id'>
-    <img alt='Google Scholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a> -->
-<!-- <a href="https://pypi.org/user/your-username/">
-    <img src="https://img.shields.io/badge/PyPi-your-username-blue?style=flat-square&logo=pypi&logoColor=white">
-</a> -->
 
 <br/> 
 
@@ -40,5 +31,8 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Project Title</th><th>Description</th><th>Technologies Used</
+<tr><th>Project Title</th><th>Description</th><th>Technologies Used</th></tr>
+<tr><td>Project 1</td><td>Description of your project.</td><td>Tech used</td></tr>
+<!-- Repeat the row block for more projects -->
+</table>
 
