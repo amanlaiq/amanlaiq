@@ -80,3 +80,22 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🌱 What I'm Learning
+Currently enhancing my skills in several cutting-edge technologies and methodologies:
+- **Cloud Architecture and Development:** Focused on Google Cloud Platform.
+- **Advanced Program in Cloud Computing and DevOps:** Utilizing AWS for robust application development.
+- **Machine Learning APIs:** Integrating and utilizing machine learning APIs in various projects.
+
+### 📫 How to Reach Me
+Feel free to connect with me for collaboration or inquiries:
+- **Email:** [aman007mohammed@gmail.com](mailto:aman007mohammed@gmail.com)
+- **LinkedIn:** [Amaan Laiq](https://www.linkedin.com/in/amaanlaiq/)
+- **Portfolio:** [Aman Laiq Portfolio](https://portfolio-aman-lac.vercel.app/)
+- **GitHub:** [Aman Laiq](https://github.com/amanlaiq)
+
+### 🤹 Hobbies and Interests
+When not coding or designing systems, I engage in a variety of activities that keep me refreshed:
+- **Debate and Elocution:** Participated and excelled in debate and elocution at both school and college levels.
+- **Coding Contests:** Active participant in coding contests, achieving top ranks such as 1st in CODE KING’21.
+- **Exploring Machine Learning Applications:** Passionate about finding practical applications of machine learning in everyday life.
