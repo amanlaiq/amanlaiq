@@ -29,10 +29,5 @@
 * 📖 Pursuing MS in Computer Science & Engineering at [University of Illinois Chicago](https://www.uic.edu/). 
 * 💻 Currently working on various full-stack development projects.
 
-### 🖥️ Open-Source Projects
-<table>
-<tr><th>Project Title</th><th>Description</th><th>Technologies Used</th></tr>
-<tr><td>Project 1</td><td>Description of your project.</td><td>Tech used</td></tr>
-<!-- Repeat the row block for more projects -->
-</table>
+
 
