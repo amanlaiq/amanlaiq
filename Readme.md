@@ -24,6 +24,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanlaiq&layout=compact">
 </a>
 
+<br/>
+
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=aman007mohammed&cover_image=true&theme=default&bar_color=53b14f">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=aman007mohammed&cover_image=true&theme=default&bar_color=53b14f" alt="Spotify Profile">
+</a>
+
+</p>
 </p>
 
 * 📖 Pursuing MS in Computer Science & Engineering at [University of Illinois Chicago](https://www.uic.edu/). 
