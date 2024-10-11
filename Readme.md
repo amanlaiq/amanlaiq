@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/amanlaiq">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&width=435&lines=Aman+Laiq+Mohammed;Full+Stack+Developer+%7C+MS+CS+Student+(Graduate+Assistant);Software+Engineer;Data+Scientist+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&center=true&multiline=true&width=435&lines=Aman+Laiq+Mohammed;Full+Stack+Developer+%7C+MS+CS+Student+(Graduate+Assistant);Software+Engineer;Data+Scientist+" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -31,10 +31,7 @@
 </a>
 
 </p>
-</p>
 
 * 📖 Pursuing MS in Computer Science & Engineering at [University of Illinois Chicago](https://www.uic.edu/). 
 * 💻 Currently working on various full-stack development projects.
-
-
 
