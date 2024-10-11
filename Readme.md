@@ -14,13 +14,6 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-<br/> 
-<p align="center">
-<a href="https://github.com/amanlaiq">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&center=true&width=435&lines=Aman+Laiq+Mohammed;MS+CS+Student+(Graduate+Assistant);Full+Stack+Developer;Data+Scientist+;Software+Engineer" alt="Typing SVG" />
-</a>
-<br/>
-
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://github.com/amanlaiq">
     <img src="https://github-readme-stats.vercel.app/api?username=amanlaiq&show_icons=true&theme=default" />
