@@ -10,6 +10,9 @@
 <a href="mailto:aman007mohammed@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanlaiq&color=blue&style=flat-square" alt="Profile views" />
+</p>
 <br/>
 <div align="center">
   <a href="https://github.com/amanlaiq">
