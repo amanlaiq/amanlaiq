@@ -4,9 +4,7 @@
 </a>
 <br/>
 
-<a href="https://portfolio-aman-lac.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-portfolio--aman--lac.vercel.app-red?style=flat-square">
-</a>  
+
 <a href="https://www.linkedin.com/in/amaanlaiq/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
 </a>
@@ -87,7 +85,6 @@ Currently enhancing my skills in several cutting-edge technologies and methodolo
 Feel free to connect with me for collaboration or inquiries:
 - **Email:** [aman007mohammed@gmail.com](mailto:aman007mohammed@gmail.com)
 - **LinkedIn:** [Amaan Laiq](https://www.linkedin.com/in/amaanlaiq/)
-- **Portfolio:** [Aman Laiq Portfolio](https://portfolio-aman-lac.vercel.app/)
 - **GitHub:** [Aman Laiq](https://github.com/amanlaiq)
 
 ### 🤹 Hobbies and Interests
