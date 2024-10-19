@@ -13,8 +13,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amanlaiq&color=blue&style=flat-square" alt="Profile views" />
 </p>
+<p align="center">
+  <a href="https://wakatime.com/@63301956-65fa-49d4-81c3-555538fdd85c">
+    <img src="https://wakatime.com/badge/user/63301956-65fa-49d4-81c3-555538fdd85c.svg" alt="Wakatime">
+  </a>
+</p>
 <br/>
-[![wakatime](https://wakatime.com/badge/user/63301956-65fa-49d4-81c3-555538fdd85c.svg)](https://wakatime.com/@63301956-65fa-49d4-81c3-555538fdd85c)
 <div align="center">
   <a href="https://github.com/amanlaiq">
     <img src="https://github-readme-stats.vercel.app/api?username=amanlaiq&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
