@@ -20,14 +20,20 @@
 </p>
 <br/>
 <div align="center">
-  <a href="https://github.com/amanlaiq">
-    <img src="https://github-readme-stats.vercel.app/api?username=amanlaiq&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanlaiq&theme=tokyonight">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanlaiq&theme=tokyonight" />
   </a>
-  <a href="https://github.com/amanlaiq">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanlaiq&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanlaiq&theme=tokyonight">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanlaiq&theme=tokyonight" />
   </a>
-  <a href="https://github.com/amanlaiq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanlaiq&theme=dark" />
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanlaiq&theme=tokyonight">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanlaiq&theme=tokyonight" />
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanlaiq&theme=tokyonight">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanlaiq&theme=tokyonight" />
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanlaiq&theme=tokyonight&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanlaiq&theme=tokyonight&utcOffset=8" />
   </a>
 </div>
 
