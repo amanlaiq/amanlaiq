@@ -37,10 +37,6 @@
   </a>
 </div>
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=aman007mohammed&cover_image=true&theme=novatorem&bar_color=53b14f">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=aman007mohammed&cover_image=true&theme=novatorem&bar_color=53b14f" alt="Spotify Profile">
-</a>
-
 </p>
 
 * 📖 Pursuing MS in Computer Science & Engineering at [University of Illinois Chicago](https://www.uic.edu/). 
